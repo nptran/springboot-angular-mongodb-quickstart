@@ -1,0 +1,1 @@
+java -jar swagger-codegen-cli-2.2.3.jar generate -i swagger.json -l typescript-angular2 -o angular2/
